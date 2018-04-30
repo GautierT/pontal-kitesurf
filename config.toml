@@ -1,0 +1,99 @@
+languageCode = "en-us"
+title = "Prologue"
+baseurl = "http://example.org/"
+theme = "prologue"
+
+
+[languages]
+  [languages.en]
+    LanguageName = 'EN'
+    title = "My blog"
+    weight = 1
+    [languages.en.params]
+      button = "english-link"
+
+  [languages.fr]
+    LanguageName = 'FR'
+    copyright = "Tout est à moi"
+    title = "Mon blog"
+    weight = 2
+    [languages.fr.params]
+      button = "lien-francais"
+  [languages.es]
+    LanguageName = 'ES'
+    copyright = "En espagnol"
+    title = "Spanish"
+    weight = 3
+    [languages.es.params]
+      button = "lien-spanish"
+  [languages.pt]
+    LanguageName = 'PT'
+    copyright = "En portuguais"
+    title = "portuguais"
+    weight = 3
+    [languages.pt.params]
+      button = "lien-portuguais"
+
+
+[params]
+  name = "Jane Doe"
+  description = "Hyperspace Engineer"
+  copyright = "Untitled."
+
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "#"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Ipsum Feugiat"
+  alt = ""
+  source = "../img/pic02.jpg"
+  url = "#"
+
+[[params.portfolio1]]
+  title = "Rhoncus Semper"
+  alt = ""
+  source = "../img/pic03.jpg"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Magna Nullam"
+  alt = ""
+  source = "../img/pic04.jpg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "Natoque Vitae"
+  alt = ""
+  source = "../img/pic05.jpg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Dolor Penatibus"
+  alt = ""
+  source = "../img/pic06.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Orci Convallis"
+  alt = ""
+  source = "../img/pic07.jpg"
+  url = "#"
