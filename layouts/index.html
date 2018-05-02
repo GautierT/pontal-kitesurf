@@ -66,8 +66,6 @@
                 </li>
                 {{ end }}
 
-                <li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref"><span class="icon fa-envelope">Contact</span></a>
-                </li>
             </ul>
 
         </nav>
@@ -177,7 +175,6 @@
                 <h2>{{ .Title}}</h2>
             </header>
 
-            <a href="#" class="image featured"><img src="../img/about.jpg" alt=""/></a>
 
 
             <div>{{.Content}}</div>
@@ -259,14 +256,12 @@
     <section id="contact" class="four">
         <div class="container">
 
+            {{ with $.Site.GetPage "page" "contact" }}
             <header>
-                <h2>Contact</h2>
+                <h2>{{ .Title}}</h2>
             </header>
 
-            <p>Elementum sem parturient nulla quam placerat viverra
-                mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-                donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-                orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+            <div>{{.Content}}</div>
 
             <form method="post" action="#">
                 <div class="row">
@@ -280,6 +275,7 @@
                     </div>
                 </div>
             </form>
+            {{ end }}
 
         </div>
     </section>

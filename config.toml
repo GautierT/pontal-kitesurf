@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "https://affectionate-leavitt-cfd75e.netlify.com/"
 theme = "prologue"
 
 
@@ -42,14 +42,14 @@ theme = "prologue"
 
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
+  medium = "intragram"
+  icon = "intragram"
+  link = "https://intragram.com"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://intragram.com"
 
 [[params.social]]
   medium = "email"

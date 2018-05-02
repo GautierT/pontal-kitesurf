@@ -1,9 +1,9 @@
 ---
-title: "The SPOT"
+title: "Contact en anglais"
 date: 2018-04-29T15:03:40+02:00
-slug: "spot"
+slug: "contact"
 icon: "fa-envelope"
-weight: 2
+weight: 15
 ---
 
 <h2> KIKOU </h2>
