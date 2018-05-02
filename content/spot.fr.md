@@ -18,3 +18,9 @@ Le vent :
 - - kites recommandés : 9-12 m2 (75kg)
 - - météo : chaud et ensoleillé. Pas besoin de combi !
 - - niveaux : idéale pour débuter et se perfectionner 
+
+| Tables        | Are           |
+| ------------- |:-------------:| 
+| meilleure période      |juin à janvier |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
