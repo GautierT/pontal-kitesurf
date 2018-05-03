@@ -19,4 +19,4 @@ Le vent :
 - - niveaux : idéale pour débuter et se perfectionner 
 
 
- 
+ Accès: Pour accéder au village de pontal de maceio, l’aéroport le plus proche est celui de Fortaleza qui se trouve à 1h30. De là le plus simple est de prendre un taxi pour environ 50 euros. Nous pouvons bien entendu nous charger de le réserver pour vous. 
