@@ -12,3 +12,8 @@ weight: 3
 |   380 R$      | 1000 R$     | 1500 R$     |
 | 250 R$        | 700 R$      |  1000 R$    |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
