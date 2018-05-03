@@ -7,7 +7,8 @@ weight: 3
 ---
 
 
-Nous proposons 
+Nous proposons:
+
   - des cours privés : un élève pour un moniteur
   - des cours semi-privés : deux élèves pour un moniteur
 
