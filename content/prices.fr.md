@@ -8,8 +8,8 @@ weight: 3
 
 
 Nous proposons:
-  -- des cours privés : un élève pour un moniteur
-  -- des cours semi-privés : deux élèves pour un moniteur
+  - - des cours privés : un élève pour un moniteur
+  - - des cours semi-privés : deux élèves pour un moniteur
 
 
 |  | 2h        | 6h           | 10h  |
