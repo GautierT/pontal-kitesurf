@@ -12,4 +12,4 @@ El viento :
 - - Entre 15 y 25 nudos
 - - Tamaño de kite recomendado : 9 – 12 m2 (para una persona de 75 kgs)
 - - Clima : caluroso y soleado. No hace falta traje de neoprene !
-- -Nivel : ideal para empezar y perfeccionarse
+- - Nivel : ideal para empezar y perfeccionarse
