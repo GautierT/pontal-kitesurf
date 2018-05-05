@@ -3,7 +3,7 @@ title: "Le Spot"
 date: 2018-04-29T15:03:40+02:00
 slug: "spot"
 icon: "fa-envelope"
-weight: 3
+weight: 1
 ---
 
 Le spot de Pontal de Maceio est situé à environ deux heures au sud de Fortaleza. 
