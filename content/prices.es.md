@@ -6,7 +6,8 @@ slug: "prices"
 weight: 2
 ---
 
-Las clases: Proponemos 
+Las clases: Proponemos:
+
   - - clases privadas: un alumno por instructor
   - - clases semi-privadas: 2 alumnos por instructor
   
