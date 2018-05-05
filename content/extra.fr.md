@@ -7,6 +7,7 @@ weight: 6
 ---
 
 En cas de pétole, pas de problème, les activités ne manquent pas. Voici une liste de ce que vous pourrez faire au cas où il y aurait un jour sans vent : 
+
 	- - excursions en buggy, quad
 	- - promenade à cheval
 	- - promenade en bateau sur le fleuve Jaguaribe
