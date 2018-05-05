@@ -3,6 +3,7 @@ title: "Actividades extra kite"
 date: 2018-04-10T15:47:28+02:00
 icon: "fa-envelope"
 slug: "extra"
+weight: 4
 ---
 
 En caso de no haber viento, no hay problema, tenemos muchas actividades :
